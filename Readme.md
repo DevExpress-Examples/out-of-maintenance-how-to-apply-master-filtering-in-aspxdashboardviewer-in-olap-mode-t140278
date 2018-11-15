@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MasterFilter.js](./CS/Dashboard_SetMasterFilterWeb_OLAP/Scripts/MasterFilter.js) (VB: [MasterFilter.js](./VB/Dashboard_SetMasterFilterWeb_OLAP/Scripts/MasterFilter.js))
+* [WebForm1.aspx](./CS/Dashboard_SetMasterFilterWeb_OLAP/WebForm1.aspx) (VB: [WebForm1.aspx](./VB/Dashboard_SetMasterFilterWeb_OLAP/WebForm1.aspx))
+<!-- default file list end -->
 # How to apply Master Filtering in ASPxDashboardViewer in OLAP mode
 
 
