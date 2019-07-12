@@ -6,7 +6,7 @@
 <!-- default file list end -->
 # How to apply Master Filtering in ASPxDashboardViewer in OLAP mode
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t140278)**
+**[[Run Online]](https://codecentral.devexpress.com/t140278/)**
 <!-- run online end -->
 
 
